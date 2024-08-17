@@ -94,7 +94,7 @@ I created bar charts to compare the nutritional content for each category and be
 
    ![PP7 Python Visu 2](https://github.com/user-attachments/assets/25f20b96-0f6a-4fa3-8f82-11fb6a2ac4a5)
        
-      **Results**: 2 out of the top 5 most calorie-dense beverages are smoothies. The top 2 are Frappucchinos.  
+      **Results**: Two out of the top five most calorie-dense beverages are smoothies. The top 2 are Frappucchinos.  
     &ensp;
    
 
@@ -123,7 +123,8 @@ I created bar charts to compare the nutritional content for each category and be
        ```
       ![PP7 Python Visu 3](https://github.com/user-attachments/assets/ea7cfa7b-5fe3-4d78-a20d-52e894f5488f)
    
-    **Results**: Top 5 most sugary drinks are all Frappucchinos.  
+    **Results**: Four of the top 5 most sugary drinks are Frappucchinos. Sweet!<br/>
+                  Caramel Apple Spice (Without Wipped Cream) is one of the signature espresso drinks.  
    &ensp;
 
  
@@ -132,7 +133,7 @@ I created bar charts to compare the nutritional content for each category and be
   **4. Average Caffeine Content in Each Beverage Category** 
   
        ```
-         # Look at the column and preprocess it for analysis frist
+         # Look at the column and preprocess it for analysis first
 
          # Rename the column
            df.rename(columns = {'Caffeine (mg)':'Caffeine'}, inplace=True)
@@ -196,12 +197,16 @@ I created bar charts to compare the nutritional content for each category and be
 
 ### Key Takeaways
 
--
+- Frappuccinos are very high in calories and sugar content. It’s best to avoid them or reserve them for cheat days.
+- According to the analysis, smoothies are considered healthy due to their low caffeine and sugar content, though they are high in calories.<br/>
+  They can be a good meal replacement when solid food isn't an option.
+- Coffee contains a significant amount of caffeine, but it’s safe to consume if limited to 400 milligrams per day.
+- The healthiest choices are teas. If you drink coffee daily, switching to tea could make you even healthier.
 
 
 
 &ensp;
 
-**Thank you for reading**!😄
+**Thank you for reading**! I hope this analysis encourages you to think about how you can improve your health and diet😄
 
 
