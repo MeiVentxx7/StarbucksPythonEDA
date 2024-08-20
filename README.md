@@ -198,7 +198,7 @@ I created bar charts to compare the nutritional content for each category and be
 ### Key Takeaways
 
 - Frappuccinos are very high in calories and sugar content. It’s best to avoid them or reserve them for cheat days.
-- According to the analysis, smoothies are considered healthy due to their low caffeine and sugar content, though they are high in calories.<br/>
+- According to the analysis, smoothies are considered healthy due to their low caffeine and sugar content, though they are high in calories.
   They can be a good meal replacement when solid food isn't an option.
 - Coffee contains a significant amount of caffeine, but it’s safe to consume if limited to 400 milligrams per day.
 - The healthiest choices are teas. If you drink coffee daily, switching to tea could make you even healthier.
